@@ -1,6 +1,13 @@
 # sid
 Javascript implementation of NicheVision Sequence Identifiers (SIDs)
 
+Live example of application:
+https://nichevision.github.io/sid.js/
+
+Licensed example SID:
+
+https://nichevision.github.io/sid.blazor/
+
 /*
  *
  * Sequence Identifier (SID) algorithm.
