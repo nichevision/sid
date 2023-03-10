@@ -2,7 +2,9 @@
  *
  * Sequence Identifier (SID) algorithm.
  *
- * NicheVision Inc.
+ * Copyright © 2016-2023 NicheVision, Inc.
+ * Everyone is permitted to copy and distribute verbatim copies of this V1.1 Open Source Public license document, but changing it is not allowed.  This program is free software: you can redistribute it and/or modify it under the terms of the V1.1 Open Source Public License or (at your option) any later version.
+ * This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
  *
 */
 function NormalizeSequence(sequence) {
